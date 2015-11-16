@@ -1,0 +1,23 @@
+From 609bc980c84fe19728822aa1c4150e46810e4d14 Mon Sep 17 00:00:00 2001
+From: Nicolas Rauflet <nicolas.rauflet@tactfactory.com>
+Date: Mon, 16 Nov 2015 13:46:24 +0100
+Subject: [PATCH] update minor version
+
+---
+ test/test_app.bat | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/test/test_app.bat b/test/test_app.bat
+index 39f44b7..2a5ab60 100644
+--- a/test/test_app.bat
++++ b/test/test_app.bat
+@@ -1,5 +1,5 @@
+ ### test_app.bat - 201x - Nicolas Rauflet ###
+-version = "2"
++version = "1.2.1"
+ build_hour = "11H00"
+ 
+ echo "Build ${build_hour}"
+-- 
+2.1.4
+

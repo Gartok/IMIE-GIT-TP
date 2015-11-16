@@ -1,5 +1,5 @@
 ### application.bat - 201x - Nicolas Rauflet Lionel Guérin Kévin Boussard###
-version = "1.2"
+version = "2.1"
 build_hour = "11H00"
 
 echo "Build ${build_hour}"
