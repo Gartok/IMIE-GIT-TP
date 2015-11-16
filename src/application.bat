@@ -1,4 +1,4 @@
-### application.bat - 201x - Nicolas Rauflet Lionel Guérin ###
+### application.bat - 201x - Nicolas Rauflet Lionel Guérin Kévin Boussard###
 version = "1.2"
 build_hour = "11H00"
 
